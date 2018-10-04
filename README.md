@@ -1,3 +1,3 @@
 # StringLibrary
 
-Inbuilt library functions are implemented
+Inbuilt library functions implemented
